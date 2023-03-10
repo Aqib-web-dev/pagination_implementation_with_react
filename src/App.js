@@ -16,7 +16,7 @@ const App = () => {
   <Container>
     <ProfileCard 
       img={alexaLogo}
-      description="Amazon Alexa, also known simply as Alexa, is a virtual assistant technology largely based on a Polish speech synthesiser named Ivona, bought by Amazon in 2013."
+      description="Amazon Alexa, also known simply as Alexa, is a virtual assistant technology largely based on a Polish speech synthesiser named Ivona"
     />
     <ProfileCard 
       img={cortona}
